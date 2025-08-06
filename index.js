@@ -79,10 +79,10 @@ function setImg(picked) {
 
   switch (picked) {
     case "rock":
-      fileName = "rock (2).png";
+      fileName = "rock%20(2).png";
       break;
     case "paper":
-      fileName = "paper (4).png";
+      fileName = "paper%20(4).png";
       break;
     case "scissor":
     case "scissors":
