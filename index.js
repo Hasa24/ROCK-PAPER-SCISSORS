@@ -73,7 +73,7 @@ function computerPicked() {
   return computer[picked];
 }
 
-// ✅ Updated to use your actual filenames
+
 function setImg(picked) {
   let fileName = "";
 
