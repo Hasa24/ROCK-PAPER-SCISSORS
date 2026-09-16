@@ -49,3 +49,19 @@ No external libraries or build tools — everything is hand-written from scratch
 6. Win the round to see the celebration screen 🎉
 
 ## Project Structure
+
+ROCK-PAPER-SCISSORS/
+├── image/ # Game assets (rock, paper, scissor icons, trophy, stars)
+├── index.html # Markup and game structure
+├── index.js # Game logic and DOM interactions
+└── style.css # Styling and animations
+
+
+## Future Improvements
+
+- Responsive layout for mobile devices
+- Sound effects on win/lose/tie
+- Best-of-N match mode
+- Reset score button
+
+---
